@@ -1,6 +1,4 @@
 package com.crave.authservice.service;
 
-public class AuthenticateService {
-
-
+public class Protection {
 }
